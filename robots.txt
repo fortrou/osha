@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://online-shkola.com.ua/sitemap.xml
